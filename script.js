@@ -1,8 +1,4 @@
-//valorx = 100
-//valory = 2
-//resultado = valorx / 2
 
-//console.log(resultado)
 
 function somar() {
   let x = document.getElementById("valorx").value;
